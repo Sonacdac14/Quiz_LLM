@@ -1,9 +1,13 @@
-[theme]
-base = "dark"
+[browser]
+gatherUsageStats = false
 
 [server]
 enableStaticServing = true
 
+[theme]
+base="dark"
+
 [client]
-toolbarMode = "minimal"
 showSidebarNavigation = false
+toolbarMode = "minimal"
+
