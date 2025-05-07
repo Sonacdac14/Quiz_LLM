@@ -1,0 +1,14 @@
+# Ignore virtual environments
+qe/
+venv/
+env/
+
+# Ignore large binaries
+*.dll
+*.pyd
+*.lib
+
+# Python cache
+__pycache__/
+*.py[cod]
+
